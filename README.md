@@ -7,6 +7,7 @@ Starbucks is an international coffeeshop that is arguably the most famous worldw
 
 ## Requirements:
 * This code needs the *directory.csv* dataset, which could be obtained from https://www.kaggle.com/starbucks/store-locations
+* All the code we provide here is in the form of jupyter notebook files. These files are commented and contain lots of explanations
 ---
 
 ## The code is oraganized as follows:
